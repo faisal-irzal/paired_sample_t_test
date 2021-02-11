@@ -7,10 +7,10 @@ Paired Sample T-test is s a hypothesis testing conducted to determine whether th
 * Measurement of samples against two different conditions - e.g. the response time of a patient is measured on two different drugs.
 
 ## Procedure
-* Determine the hypothesis <br>
+* Determine the hypothesis <br> <br>
   Null Hypothesis &emsp; &emsp; (H<sub>0</sub>):  &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>
   Alternate Hypothesis (H<sub>1</sub>):  &mu;<sub>1</sub>  &#8800; &mu;<sub>2</sub> <br>
-* Define the significance level &alpha; <br>
-* Define the rejection criteria <br>
-* Perform test statistics <br>
+* Define the significance level &alpha; <br>  <br>
+* Define the rejection criteria <br>  <br>
+* Perform test statistics <br>  <br>
 * Draw conclusion
