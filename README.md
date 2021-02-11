@@ -9,10 +9,10 @@ Paired Sample T-test is s a hypothesis testing conducted to determine whether th
 ## Procedure
 * Determine the hypothesis <br> 
   Null Hypothesis &emsp; &emsp; (H<sub>0</sub>):  &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>
-  Alternate Hypothesis (H<sub>1</sub>):  &mu;<sub>1</sub>  &#8800; &mu;<sub>2</sub> <br>  <br>
+  Alternate Hypothesis (H<sub>1</sub>):  &mu;<sub>1</sub>  &#8800; &mu;<sub>2</sub> <br> 
 * Define the significance level &alpha; <br>  
-  &alpha; = 0.05 <br>  <br>
+  &alpha; = 0.05 <br> 
 * Define the rejection criteria <br>  
-  'Reject 'H<sub>0</sub> if p-value < &alpha;  <br>
-* Perform test statistics <br>  <br>
+  'Reject H<sub>0</sub> if p-value < &alpha;'  <br>
+* Perform test statistics <br> 
 * Draw conclusion
