@@ -6,4 +6,7 @@ Paired Sample T-test is s a hypothesis testing conducted to determine whether th
 * Measurements of samples before and after treatment – e.g. the max vertical jump of basketball players is measured before and after enrolling in a training program.
 * Measurement of samples against two different conditions - e.g. the response time of a patient is measured on two different drugs.
 
-## Formula
+## Procedure
+* Determine the hypothesis
+  Null Hypothesis (H_0):  \mu_1 = \mu_2
+  H_1 = 
