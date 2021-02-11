@@ -8,5 +8,5 @@ Paired Sample T-test is s a hypothesis testing conducted to determine whether th
 
 ## Procedure
 * Determine the hypothesis
-  Null Hypothesis (H<sub>0):  &mu;<sub>1 = &mu:<sub>2
+  Null Hypothesis (H<sub>0<sub>):  &mu;<sub>1<sub> = &mu:<sub>2<sub>
   H_1 = 
