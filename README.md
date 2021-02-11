@@ -7,6 +7,6 @@ Paired Sample T-test is s a hypothesis testing conducted to determine whether th
 * Measurement of samples against two different conditions - e.g. the response time of a patient is measured on two different drugs.
 
 ## Procedure
-* Determine the hypothesis
-  Null Hypothesis (H<sub>0</sub>):  &mu;<sub>1</sub> = &mu;<sub>2</sub>
-  H_1 =  
+* Determine the hypothesis <br>
+  Null Hypothesis (H<sub>0</sub>):  &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>
+  Alternate Hypothesis H_1 =  (H<sub>1</sub>):  &mu;<sub>1</sub> &#8800; &mu;<sub>2</sub> <br>
